@@ -1,4 +1,5 @@
 # Kafka Getting Started
+Simple pub sub with kafka
 # How to Run
 ### With Makefile
 1. Deploy kafka and zookeeper
